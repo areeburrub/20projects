@@ -1,0 +1,22 @@
+# 20 Projects
+
+- [x] 1. Stop Watch
+- [ ] 2. Calculator
+- [ ] 3. Quiz Game
+- [ ] 4. BMI Calculator
+- [ ] 5. Rock Paper Scissors
+- [ ] 6. Background color changer
+- [ ] 7. Form Validation
+- [ ] 8. Random Quote Generator
+- [ ] 9. Number Counter
+- [ ] 10. Popup Modal
+- [ ] 11. Quiz App
+- [ ] 12. Note App
+- [ ] 13. Music Player
+- [ ] 14. Tic-Tac Toe Game
+- [ ] 15. Rock Paper Scissors
+- [ ] 16. Pomodoro Clock
+- [ ] 17. File Converter
+- [ ] 18. Chat Application
+- [ ] 19. Instagram Clone
+- [ ] 20. Hangman Game
